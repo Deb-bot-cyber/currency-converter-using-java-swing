@@ -8,7 +8,7 @@ This a basic Currency Converter application created by using Java swing and Apac
 * Similarly, the user can convert the value entered in the upper text-field from a particular foreign currency to its equivalent Indian rupee value.
 * Respective conversions are displayed in new popup.
 * The Close button then can be used to close the application.
-<img src="https://github.com/Deb-bot-cyber/currency-converter-using-java-swing/blob/main/CurrencyConverterJava/nbproject/private/Screenshot%20(100).png?raw=true" height="200" width="200" >
+<img src="https://github.com/Deb-bot-cyber/currency-converter-using-java-swing/blob/main/CurrencyConverterJava/nbproject/private/Screenshot%20(100).png?raw=true" height="600" width="620" >
 
 # Experimental Setup
 * Apache NetBeans 15 IDE for Java Developers 2022
